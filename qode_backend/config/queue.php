@@ -8,7 +8,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | Laravel's queue supports a variety of backends via a single, unified
-    | API, giving you convenient access to each qode_backend using identical
+    | API, giving you convenient access to each backend using identical
     | syntax for each. The default queue connection is defined below.
     |
     */
@@ -20,9 +20,9 @@ return [
     | Queue Connections
     |--------------------------------------------------------------------------
     |
-    | Here you may configure the connection options for every queue qode_backend
+    | Here you may configure the connection options for every queue backend
     | used by your application. An example configuration is provided for
-    | each qode_backend supported by Laravel. You're also free to add more.
+    | each backend supported by Laravel. You're also free to add more.
     |
     | Drivers: "sync", "database", "beanstalkd", "sqs", "redis", "null"
     |
